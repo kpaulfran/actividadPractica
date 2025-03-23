@@ -1,14 +1,3 @@
-# 13MIBD Template
-
-Plantilla de repositorio para la asignatura 13MBID.  
-
-**"Metodologías de Gestión de Proyectos de Big Data"**  
-*Master Universitario en Big Data y Ciencia de Datos  
-Universidad Internacional de Valencia*  
-
-Prof: Dr. Horacio Kuna
-Dictado: ABR24-25
-
 ## Descripción del contenido
 
 Carpetas:
